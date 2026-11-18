@@ -2,3 +2,4 @@
 *.pdf
 *parent
 *child
+.DS_Store
